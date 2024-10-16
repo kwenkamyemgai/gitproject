@@ -1,0 +1,19 @@
+.container{
+    background-color:#eee;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    padding-bottom:  20px;
+}
+.imgs{
+    text-align: center;
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.points{
+    text-align: center;
+}
